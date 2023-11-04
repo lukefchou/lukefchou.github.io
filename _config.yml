@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Luke Chou 博士 教授 博导"
+title                    : "故事思维科研写作"
 title_separator          : "-"
 name                     : &name "Luke Chou (Xiaoping Zhou)"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Luke Chou"
+  name             : "Luke Chou 博士 教授 博导"
   avatar           : "lch.png"
   bio              : "故事思维科研写作辅导与科普。研究方向：BIM/CIM, 建筑数字孪生, 智慧建筑"
   location         : "中国北京"
