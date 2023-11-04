@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Luke Chou / Dr. Prof. "
+title                    : "Luke Chou 博士 教授 博导"
 title_separator          : "-"
 name                     : &name "Luke Chou (Xiaoping Zhou)"
 description              : &description "personal description"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : # &twitter
+  username               :  &twitter
 facebook:
   username               :
   app_id                 :
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Luke Chou"
   avatar           : "lch.png"
-  bio              : "故事思维科研写作辅导与科普。研究方向：BIM, Building Digital Twin, Smart Building"
+  bio              : "故事思维科研写作辅导与科普。研究方向：BIM/CIM, 建筑数字孪生, 智慧建筑"
   location         : "Beijing, China (中国北京)"
   employer         : #北京建筑大学
   pubmed           : 
